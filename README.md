@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aashayodha
+- 👋 Hi, I’m Antonio Sergio
 - 👀 I’m interested in Operational Research/Healthcare
 - 🌱 I’m currently learning MCDA and Italian
 - 💞️ I’m looking to collaborate on Healthcare and Operational Research
